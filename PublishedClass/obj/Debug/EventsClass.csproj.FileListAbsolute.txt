@@ -1,0 +1,6 @@
+C:\Csharp\EventsExample\PublishedClass\bin\Debug\PublishedClass.dll
+C:\Csharp\EventsExample\PublishedClass\bin\Debug\PublishedClass.pdb
+C:\Csharp\EventsExample\PublishedClass\obj\Debug\EventsClass.csproj.AssemblyReference.cache
+C:\Csharp\EventsExample\PublishedClass\obj\Debug\EventsClass.csproj.CoreCompileInputs.cache
+C:\Csharp\EventsExample\PublishedClass\obj\Debug\PublishedClass.dll
+C:\Csharp\EventsExample\PublishedClass\obj\Debug\PublishedClass.pdb

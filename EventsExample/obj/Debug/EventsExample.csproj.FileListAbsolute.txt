@@ -1,0 +1,10 @@
+C:\Csharp\EventsExample\EventsExample\bin\Debug\EventsExample.exe.config
+C:\Csharp\EventsExample\EventsExample\bin\Debug\EventsExample.exe
+C:\Csharp\EventsExample\EventsExample\bin\Debug\EventsExample.pdb
+C:\Csharp\EventsExample\EventsExample\bin\Debug\PublishedClass.dll
+C:\Csharp\EventsExample\EventsExample\bin\Debug\PublishedClass.pdb
+C:\Csharp\EventsExample\EventsExample\obj\Debug\EventsExample.csproj.AssemblyReference.cache
+C:\Csharp\EventsExample\EventsExample\obj\Debug\EventsExample.csproj.CoreCompileInputs.cache
+C:\Csharp\EventsExample\EventsExample\obj\Debug\EventsEx.22D63F17.Up2Date
+C:\Csharp\EventsExample\EventsExample\obj\Debug\EventsExample.exe
+C:\Csharp\EventsExample\EventsExample\obj\Debug\EventsExample.pdb
